@@ -4,3 +4,6 @@
 * [UK Trains](http://www.windowsphone.com/en-gb/store/app/uk-trains/ef62d461-861c-4a9f-9198-8768532cc6aa)
 * [Irish Trains](http://www.windowsphone.com/en-ie/store/app/irish-trains/2d4c7bff-bbea-400d-a95b-d2b60cb1933b)
 
+
+
+ [This data is mirrored and can be queried via API here](https://www.exversion.com/data/view/6JQ9X04GFKS30H4)
